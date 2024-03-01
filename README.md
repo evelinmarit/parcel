@@ -4,6 +4,9 @@
   </a>
 </p>
 
+To run this program:
+$ npx parcel src/index.html
+
 [![Backers on Open Collective](https://opencollective.com/parcel/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/parcel/sponsors/badge.svg)](#sponsors)
 [![Build Status](https://dev.azure.com/devongovett/devongovett/_apis/build/status/parcel-bundler.parcel?branchName=v2)](https://dev.azure.com/devongovett/devongovett/_build/latest?definitionId=1)
 [![npm package](https://img.shields.io/npm/v/parcel.svg)](https://www.npmjs.com/package/parcel)
