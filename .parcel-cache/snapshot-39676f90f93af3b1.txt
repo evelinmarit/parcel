@@ -1,0 +1,23 @@
+22
+48C:\Users\Evelin\node_modules\parcel\package.json133537029722675009 0
+46C:\Users\Evelin\node_modules\parcel\src\bin.js133536983971765085 0
+40C:\Users\Evelin\node_modules\parcel\dist133537013274590373 1
+39C:\Users\Evelin\node_modules\parcel\lib133536983974267228 1
+43C:\Users\Evelin\node_modules\parcel\LICENSE133536983966426895 0
+45C:\Users\Evelin\node_modules\parcel\README.md133536983984441304 0
+54C:\Users\Evelin\node_modules\parcel\src\.eslintrc.json133536983980600875 0
+40C:\Users\Evelin\node_modules\parcel\Yarn133537022410974454 1
+39C:\Users\Evelin\node_modules\parcel\src133537005513398538 1
+46C:\Users\Evelin\node_modules\parcel\src\app.js133537002571154512 0
+46C:\Users\Evelin\node_modules\parcel\src\cli.js133536983978603299 0
+50C:\Users\Evelin\node_modules\parcel\src\index.html133537006216953166 0
+59C:\Users\Evelin\node_modules\parcel\dist\parcel.59712999.js133536991975864803 0
+50C:\Users\Evelin\node_modules\parcel\src\styles.css133537005638805218 0
+46C:\Users\Evelin\node_modules\parcel\lib\bin.js133536983967760952 0
+46C:\Users\Evelin\node_modules\parcel\lib\cli.js133536983975600802 0
+58C:\Users\Evelin\node_modules\parcel\dist\index.0641b553.js133537013274101526 0
+62C:\Users\Evelin\node_modules\parcel\dist\index.0641b553.js.map133537013274399337 0
+59C:\Users\Evelin\node_modules\parcel\dist\index.4d663569.css133537013274550382 0
+63C:\Users\Evelin\node_modules\parcel\dist\index.4d663569.css.map133537013274580382 0
+51C:\Users\Evelin\node_modules\parcel\dist\index.html133537006218450173 0
+63C:\Users\Evelin\node_modules\parcel\dist\parcel.59712999.js.map133536991976032637 0
